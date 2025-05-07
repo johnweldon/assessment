@@ -1,0 +1,14 @@
+# sample questions file
+
+ 1. Lorem ipsum dolor sit amet consectetur adipiscing elit?
+ 2. Nostra inceptos himenaeos orci varius natoque penatibus et?
+ 3. Sollicitudin erat viverra ac tincidunt nam porta elementum?
+ 4. Habitasse platea dictumst lorem ipsum dolor sit amet?
+ 5. Torquent per conubia nostra inceptos himenaeos orci varius?
+ 6. Tortor ligula congue sollicitudin erat viverra ac tincidunt?
+ 7. Cubilia curae hac habitasse platea dictumst lorem ipsum?
+ 8. Sociosqu ad litora torquent per conubia nostra inceptos?
+ 9. Dapibus etiam interdum tortor ligula congue sollicitudin erat?
+10. Auctor curabitur facilisi cubilia curae hac habitasse platea?
+11. Class aptent taciti sociosqu ad litora torquent per?
+12. Nibh finibus facilisis dapibus etiam interdum tortor ligula?

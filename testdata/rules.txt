@@ -1,0 +1,7 @@
+# sample rules file
+
+all:no:1
+all:yes:0
+matching 2,4,6,8:yes:11
+matching 3,7,9,11:no:7
+matching 5,12:no:2

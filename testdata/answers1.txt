@@ -1,0 +1,14 @@
+# sample answers file
+
+1:t
+2:t
+3:f
+4:t
+5:t
+6:f
+7:f
+8:f
+9:t
+10:f
+11:t
+12:t
